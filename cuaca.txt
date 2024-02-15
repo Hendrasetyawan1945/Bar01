@@ -1,3 +1,4 @@
-#laporan cuaca hari ini
+# laporan cuaca hari ini
 panas banget
-cuaca sekarang mengung
+cuaca sekarang mendung
+katanya ujan tapi panas
